@@ -1,0 +1,47 @@
+EORTC QLQ - BR23 Questionnaire
+
+The EORTC QLQ-BR23 is a breast-specific module that comprises of 15 questions to assess body image and breast cancer symptoms.
+
+The following is the scoring plan for the answers:- 
+
+1- not at all
+
+2- a little
+
+3- quite a bit
+
+4- very much
+
+Questions 
+
+1. Did you have any pain in your arm or shoulder?
+
+2. Did you have a swollen arm or hand?
+
+3. Was it difficult to raise your arm or to move it sideways?
+
+4. Have you had any pain in the area of your affected breast?
+
+5. Was any area of your breast swollen?
+
+6. Was any area of your breast oversensitive?
+
+7. Have you had skin problems on or in the area of any of your breasts (e.g., itchy, dry, flaky)?
+
+8. Did you have a dry mouth?
+
+9. Did food and drink taste different than usual?
+
+10. Were your eyes painful, irritated or watery?
+
+11. Have you lost any hair?
+
+12. Do you have hair loss?
+
+13. Did you feel ill or unwell?
+
+14. Did you have hot flushes?
+
+15. Did you have headaches?
+
+Condition- if the sum of all the responses is less than 48, then the patient might not have breast cancer. The higher the scores, more the risk for breast cancer. However this is a pre-diagnostic tool which has subjective preferences and the output might not be true, just an assumption about the condition and to make further planning.
